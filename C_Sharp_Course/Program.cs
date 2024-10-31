@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Interfaces.InterfaceMain();
+            //Interfaces.InterfaceMain();
+            Logs.LogsMain();
         }
     }
 }
