@@ -1,4 +1,6 @@
-﻿namespace C_Sharp_Course
+﻿using System.Text.RegularExpressions;
+
+namespace C_Sharp_Course
 {
     internal class Program
     {
