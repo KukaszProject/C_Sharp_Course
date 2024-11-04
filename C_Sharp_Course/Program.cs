@@ -7,6 +7,13 @@
             //Interfaces.InterfaceMain();
             //Logs.LogsMain();
             //Dependencies.DependenciesMain();
+            //Structs.StructsMain();
+            //Delegates.DelegatesMain();
+
+            
+
+
+            Console.ReadKey();
         }
     }
 }
